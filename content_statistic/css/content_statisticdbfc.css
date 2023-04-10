@@ -1,0 +1,36 @@
+.content_statistic_table {
+
+padding: 2px 0px!important;
+
+}
+
+.content_statistic_table td {
+  padding: 3px 0px!important;
+}
+
+.content_statistic_table td {
+  padding: 3px 0px!important;
+}
+
+
+.content_statistic_table_sub {
+
+padding: 0px 0px!important;
+}
+
+.content_statistic_table_sub td {
+
+  padding: 3px 0px!important;
+}
+
+.content_statistic_table_sub th {
+
+  padding: 3px 0px!important ;
+}
+.content_statistic_table_sub td {
+    text-align: center;
+}
+.sticky-enabled tableheader-processed sticky-table td {
+
+	text-align: center;
+}
